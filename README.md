@@ -1,6 +1,6 @@
 # 💪 Fitness App
 
-[🌐 View Live Demo]()
+[🌐 View Live Demo](https://angular-fitness-app.vercel.app/)
 
 🚀 **Modern Angular fitness tracking application with Firebase integration**
 
