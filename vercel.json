@@ -1,0 +1,12 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "buildCommand": "node build.js && ng build --configuration production",
+  "outputDirectory": "dist/fitness-app",
+  "installCommand": "npm install"
+}
